@@ -5,5 +5,6 @@
 # email 00266097@student.necc.edu
 # ------------------------------------------------------------------ #
 
-# print hello world to console
-print("hello world")
+print("enter text: ")
+user_input = input()
+print(user_input)
